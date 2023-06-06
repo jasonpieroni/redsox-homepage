@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  background-color: #f5f6fd;
+  height: 100px;
+  padding: 30px 25px;
+  max-width: 100%;
+}
+
+.nav-title, .nav-link {
+  margin: 0;
+}
+
+.nav-title {
+  margin-right: auto;
+  color: #f70707;
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.nav-link {
+  color: #000000;
+  font-weight: 600;
+}
+
+.redsox-image {
+  height: 60px;
+  margin-right: 25px;
+}
