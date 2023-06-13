@@ -1,17 +1,15 @@
-import React from 'react'
-import './App.css'
+import React from 'react';
+import './App.css';
+import NavBar from './NavBar'
+import Body from './Body'
 
 function App() {
-
   return (
-    
-       <nav>
-            <img src="/public/boston-red-sox-logo-transparent.png" className="redsox-image" />
-            <h1 className="nav-title">Red Sox Fan Page</h1>
-            <h4 className="nav-link">Team Roster</h4>
-        </nav>
-  
-  )
+    <div className="container">
+      <NavBar />
+      <Body />
+    </div>
+  );
 }
 
-export default App
+export default App;
