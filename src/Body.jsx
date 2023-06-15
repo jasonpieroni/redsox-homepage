@@ -5,15 +5,15 @@ const Body = () => {
         <div>
             <h1>Tonight's Lineup:</h1>
             <ul>
-                <li>SP: Kutter Crawford</li>
+                <li>SP: Garret Whitlock</li>
                 <li>RF: Alex Verdugo</li>
-                <li>LF: Masataka Yoshida</li>
-                <li>1B: Justin Turner</li>
-                <li>3B: Rafael Devers</li>
-                <li>CF: Adam Duvall</li>
-                <li>DH: Triston Casas</li>
+                <li>LF: Rob Refsnyder</li>
+                <li>3B: Justin Turner</li>
+                <li>CF: Kike Hernandez</li>
+                <li>DH: Adam Duvall</li>
+                <li>1B: Triston Casas</li>
                 <li>2B: Christian Arroyo</li>
-                <li>C: Reese McGuire</li>
+                <li>C: Connor Wong</li>
                 <li>SS: Pablo Reyes</li>
             </ul>
         </div>
